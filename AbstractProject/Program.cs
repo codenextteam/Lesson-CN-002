@@ -16,6 +16,7 @@ YAcademyStudentManager yAcademyStudentManager = new YAcademyStudentManager(check
 ZAcademyStudentManager zAcademyStudentManager = new ZAcademyStudentManager();
 zAcademyStudentManager.Add(student3);
 yAcademyStudentManager.Add(student2);
+//test github
 xAcademyManager.Add(student1);
 
 
